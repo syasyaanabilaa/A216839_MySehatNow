@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366017095793",
+    "project_id": "mysehatnow",
+    "storage_bucket": "mysehatnow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366017095793:android:a5c25e7ad8ed97d0bdd3d0",
+        "android_client_info": {
+          "package_name": "com.example.a216839_wan_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNiUeMXK-tpPPJkPNtqvBab7H7RPiMXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
